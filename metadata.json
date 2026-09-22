@@ -1,0 +1,6 @@
+{
+  "name": "SKILL-NEXUS",
+  "description": "Bridging Skills to Opportunities - SIH 2026 AI-Powered Skill Mapping, Weighted Gap Analysis, and Multi-Stakeholder Intelligence Platform",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
